@@ -13,3 +13,42 @@
  *= require_tree .
  *= require_self
  */
+
+ .fa-regular {
+  padding-right: 7px;
+}
+
+a {
+  padding-left: 7px;
+}
+
+.fa-sharp {
+  padding-left: 7px;
+  color: blue;
+}
+
+h1 {
+  padding-bottom: 15px;
+  text-shadow: 10px 10px 10px 0.3;
+  color: rgb(52, 4, 94);
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+label {
+  margin-bottom: 50px;
+  font-weight: bold;
+  color: rgb(15, 15, 116);
+}
+
+[type=submit] {
+  background-color: blue;
+  color: white;
+}
+
+input {
+  border-radius: 5px;
+  border-color: blue;
+}
